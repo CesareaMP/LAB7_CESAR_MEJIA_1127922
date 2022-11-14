@@ -3,6 +3,7 @@
 #include "Rectangulo.h"
 #include "Cuadrados.h"
 #include "Triangulo.h";
+
 namespace LAB7CESAR {
 
 	using namespace System;
